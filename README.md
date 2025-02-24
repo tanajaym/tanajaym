@@ -1,11 +1,5 @@
 # 👋 Привет, меня зовут Ева - Frontend developer!
 ## Умения:
-  <!-- - 👨‍💻 JavaScript, TypeScript, HTML, SCSS(CSS), Tailwind CSS, C/C++
-  - 🖥️ React, Redux Toolkit, Firebase ,Npm, Yarn, Sequelize, Bootstrap, Figma, Qt, Makefile
-  - 🤖 Docker, Postman, CI/CD,  Bash, Shell, Git, Linux
-  - 🗄 PostgreSQL, MongoDB -->
-
-<h3 align="center">Languages and Tools:</h3>
 
 **`Frontend`**
 ---
